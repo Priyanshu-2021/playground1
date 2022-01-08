@@ -98,6 +98,8 @@ Step 6 : Deploying the Wordpress Application in /var/www/html to enable it to be
 
 
 WORRDPRESS welcome page is now available at http://<ec2instance_Public IPv4 DNS>
+Screenshot of Wordpress Site is also provided
+
 
 	
    
